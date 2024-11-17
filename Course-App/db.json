@@ -1,0 +1,76 @@
+{
+  "kategoriler": [
+    {
+      "id": "1",
+      "kategori-adi": "Yaz\u0131l\u0131m Geli\u015ftirme",
+      "aktif": true
+    },
+    {
+      "id": "2",
+      "kategori-adi": "Web Proglamlama",
+      "aktif": false
+    },
+    {
+      "id": "3",
+      "kategori-adi": "Veri Analizi",
+      "aktif": false
+    },
+    {
+      "id": "4",
+      "kategori-adi": "Veri Bilimi",
+      "aktif": false
+    },
+    {
+      "id": "5",
+      "kategori-adi": "Mobil Geli\u015ftirme",
+      "aktif": false
+    }
+  ],
+  "kurslar": [
+    {
+      "baslik": "Php Kursu",
+      "altBaslik": "S\u0131f\u0131rdan ileri seviye Php ile web geli\u015ftirme",
+      "resim": "php.jpg",
+      "yayinTarihi": "16.10.2024",
+      "begeniSayisi": 20,
+      "yorumSayisi": 0,
+      "onay": true
+    },
+    {
+      "baslik": "Python Kursu",
+      "altBaslik": "S\u0131f\u0131rdan ileri seviye Python ile web geli\u015ftirme",
+      "resim": "python.png",
+      "yayinTarihi": "16.10.2024",
+      "begeniSayisi": 25,
+      "yorumSayisi": 20,
+      "onay": true
+    },
+    {
+      "baslik": "Javascript Kursu",
+      "altBaslik": "S\u0131f\u0131rdan ileri seviye Javascript ile web geli\u015ftirme",
+      "resim": "javascript.png",
+      "yayinTarihi": "16.10.2024",
+      "begeniSayisi": 56,
+      "yorumSayisi": 61,
+      "onay": true
+    },
+    {
+      "baslik": "React Kursu",
+      "altBaslik": "S\u0131f\u0131rdan ileri seviye React ile web geli\u015ftirme",
+      "resim": "react.jpg",
+      "yayinTarihi": "16.10.2024",
+      "begeniSayisi": 58,
+      "yorumSayisi": 69,
+      "onay": true
+    },
+    {
+      "baslik": "Java Kursu",
+      "altBaslik": "Sıfırdan ileri seviye Java ile mobil uygulama geliştirme",
+      "resim": "java.png",
+      "yayinTarihi": "10.10.2024",
+      "begeniSayisi": 0,
+      "yorumSayisi": 0,
+      "onay": true
+    }
+  ]
+}
